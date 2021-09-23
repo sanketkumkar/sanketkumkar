@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sanketkumkar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m tycoon
+- 👀 I’m interested in ...ethical hacking & cyber security 
+- 🌱 I’m currently learning ...ethical hacking 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-sanketkumkar/sanketkumkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tycoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
